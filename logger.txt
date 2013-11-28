@@ -1,0 +1,54 @@
+kb mode was RAW
+[ if you are trying this under X, it might not work
+since the X server is also reading /dev/console ]
+
+press any key (program terminates 10s after last keypress)...
+keycode  35 press
+keycode  35 release
+keycode  18 press
+keycode  18 release
+keycode  38 press
+keycode  38 release
+keycode  24 press
+keycode  24 release
+keycode  24 press
+keycode  24 release
+keycode  57 press
+keycode  57 release
+keycode  17 press
+keycode  17 release
+keycode  24 press
+keycode  24 release
+keycode  19 press
+keycode  19 release
+keycode  38 press
+keycode  38 release
+keycode  32 press
+keycode  32 release
+keycode  57 press
+keycode  57 release
+keycode  35 press
+keycode  35 release
+keycode  24 press
+keycode  24 release
+keycode  17 press
+keycode  17 release
+keycode  57 press
+keycode  57 release
+keycode  30 press
+keycode  30 release
+keycode  19 press
+keycode  19 release
+keycode  18 press
+keycode  18 release
+keycode  57 press
+keycode  57 release
+keycode  21 press
+keycode  21 release
+keycode  24 press
+keycode  24 release
+keycode  22 press
+keycode  22 release
+keycode  57 press
+keycode  57 release
+caught signal 1, cleaning up...
